@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: auto 0px;
+}
+
+.container{
+	align-content:center;
+	outline:solid black 2px;
+	width: 175px;
+}
+
+table {
+	gap:10px;
+	margin:10px;
+}
